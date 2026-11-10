@@ -1,0 +1,37 @@
+[
+  {
+    "score": 1455,
+    "time": 0.27,
+    "moves": 4,
+    "difficulty": "MEDIUM",
+    "date": "2026-10-29 12:01"
+  },
+  {
+    "score": 735,
+    "time": 0.24,
+    "moves": 2,
+    "difficulty": "MEDIUM",
+    "date": "2026-10-28 18:48"
+  },
+  {
+    "score": 735,
+    "time": 0.29,
+    "moves": 2,
+    "difficulty": "MEDIUM",
+    "date": "2026-10-29 12:01"
+  },
+  {
+    "score": 685,
+    "time": 11.91,
+    "moves": 4,
+    "difficulty": "MEDIUM",
+    "date": "2026-10-27 20:10"
+  },
+  {
+    "score": 598,
+    "time": 28.11,
+    "moves": 9,
+    "difficulty": "MEDIUM",
+    "date": "2026-10-27 21:35"
+  }
+]
